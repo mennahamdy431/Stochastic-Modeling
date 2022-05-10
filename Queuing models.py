@@ -1,9 +1,5 @@
 import math
 
-
-# Mohamed Emad Mahmoud Hassan - 20190467
-# Omnia Ehab Mohamed Ali - 20190108
-# Nour eldin Raafat Foad - 20190588
 # Menna-Allah Hamdy Mahmoud - 20190558
 
 def MM1(arrival_rate, service_rate, npop):
